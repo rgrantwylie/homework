@@ -1,0 +1,131 @@
+body{
+    
+width: 85%;
+    max-width: 760px;
+    font-family: 'Libre Baskerville', serif;
+    margin: auto;
+    background-color: #fff;
+    color: #000;
+     
+}
+
+h1, h2, h3{
+    
+    font-weight: normal;
+    color: #000;
+   
+    
+}
+
+p, li{
+    
+    
+    margin-bottom: 2em;
+    line-height: 1.5em;
+    hanging-punctuation: first;
+    
+}
+
+
+h1 {
+    
+    font-size: 3.25em;
+    margin-top: -.3em;
+    margin-bottom: .1em;
+    
+    
+}
+
+h2 {
+    
+    font-size: 1.5em;
+     margin-top: -.3em;
+    margin-bottom: .1em;
+    
+}
+
+header h2{
+    
+    
+    font-style: italic;
+    font-size: 1.8em;
+    color: #333;
+    
+    
+    
+}
+
+
+hgroup{
+    
+    
+    
+}
+
+.firstcharacter { 
+    float: left; 
+    color: #000; 
+    font-size: 75px; 
+    line-height: 60px; 
+     
+    padding-right: 8px; 
+    padding-left: 3px; 
+    font-family: 'Libre Baskerville', serif; 
+}
+
+p2{
+  font-size: .75em;  
+}
+
+
+.first{
+    text-indent: 2em;
+    display:inline-block;
+    line-height: 1.8;
+}
+
+blockquote{
+    
+    padding: 1em 0 2em 1em;
+    font-size: 1em;
+    line-height: 1.4em;
+    margin: 0;
+    color: #777;
+    
+}
+
+blockquote cite{
+    
+    font-size: .60em;
+    margin-bottom: 100em;
+    color: #777;
+}
+
+
+blockquote p{
+    
+    color: #777;
+    hanging-punctuation: first;
+    text-indent: -0.5em /* change according to your font */
+    
+}
+
+
+
+#section1{
+       
+}
+
+#section2{
+    
+   font-family: 'Open Sans', sans-serif;
+    
+    
+}
+
+#section3{
+    
+   font-family: 'Arvo', serif;
+    
+    
+}
